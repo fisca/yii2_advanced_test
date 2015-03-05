@@ -1,16 +1,16 @@
 {
-    "name": "yiisoft/yii2-app-advanced",
-    "description": "Yii 2 Advanced Application Template",
+    "name": "fisca/yii2_advanced_test",
+    "description": "Learn and test Yii 2 Advanced Application Template",
     "keywords": ["yii2", "framework", "advanced", "application template"],
-    "homepage": "http://www.yiiframework.com/",
+    "homepage": "http://localhost/yii2_advanced_test/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/fisca/yii2_advanced_test/issues?state=open",
+        "forum": "https://github.com/fisca/yii2_advanced_test/forum/",
+        "wiki": "https://github.com/fisca/yii2_advanced_test/wiki/",
+        "irc": "https://github.com/fisca/yii2_advanced_test/irc/",
+        "source": "https://github.com/fisca/yii2_advanced_test"
     },
     "minimum-stability": "stable",
     "require": {
